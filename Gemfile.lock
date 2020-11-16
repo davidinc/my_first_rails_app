@@ -103,6 +103,10 @@ GEM
     nio4r (2.5.4)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
+<<<<<<< HEAD
+=======
+    pg (1.2.3)
+>>>>>>> 32e193a55603f049db5bc7e13e2536353f221dda
     public_suffix (4.0.6)
     puma (3.12.6)
     rack (2.2.3)
@@ -197,6 +201,10 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
+<<<<<<< HEAD
+=======
+  pg
+>>>>>>> 32e193a55603f049db5bc7e13e2536353f221dda
   puma (~> 3.11)
   rails (~> 5.2.4, >= 5.2.4.4)
   sass-rails (~> 5.0)
@@ -213,4 +221,8 @@ RUBY VERSION
    ruby 2.7.0p0
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.1.4
+=======
+   2.1.2
+>>>>>>> 32e193a55603f049db5bc7e13e2536353f221dda
